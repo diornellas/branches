@@ -32,3 +32,10 @@ p {
 	font-size: 1em;
 	color:  #777;
 }
+/*----------- -----------*/
+
+/* CABEÇALHO */
+
+.cabecalho {
+	width: 100%; padding: 50px 8%; float: left;
+}
