@@ -44,7 +44,12 @@ p {
 .logo a {
 	width: 256px;
 	height: 256px;
-	float: left;
+	/*float: left;*/
 	background: url(../imgs/logo.png) no-repeat;
 	font-size: 0;
+}
+
+.cabecalho form {
+	width: 30%;
+	float: right;
 }
