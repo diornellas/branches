@@ -51,3 +51,8 @@ p {
 	background: url(../imgs/logo.png) no-repeat;
 	font-size: 0;
 }
+
+.cabecalho form {
+	width:30%;
+	float: right;
+}
